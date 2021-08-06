@@ -1,0 +1,2 @@
+/Users/hexiaodong/go/src/htest/cobratest/cobra_test.go:15 : [Info]: 2021-06-02 10:43:38 func[htest/cobratest.TestCorbra]: 111  11
+/Users/hexiaodong/go/src/htest/cobratest/cobra_test.go:17 : [Erro]: 2021-06-02 10:43:38 func[htest/cobratest.TestCorbra]: 222  22

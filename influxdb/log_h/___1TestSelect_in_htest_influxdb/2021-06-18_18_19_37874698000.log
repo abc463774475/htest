@@ -1,0 +1,1 @@
+/Users/hexiaodong/go/src/htest/influxdb/influx1_test.go:218 : [Info]: 2021-06-18 18:19:37 func[htest/influxdb.TestSelect]: err  <nil>  res  &{[{[{ms1 map[] [time av1 r1 sum] [[2021-06-17T03:15:29.319985Z 10 xiaoxiao 10.99] [2021-06-17T03:44:51.96974Z 60 xxxx 10.99] [2021-06-17T05:50:14.801097589Z 1 xxxx 8.8] [2021-06-17T06:21:13.917283Z 60 xxxx 10.99]] false}] [] <nil>}] <nil>}

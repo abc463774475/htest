@@ -1,0 +1,4 @@
+/Users/hexiaodong/go/src/htest/jwt/jwt_test.go:47 : [Info]: 2021-06-28 18:27:15 func[htest/jwt.TestJwt]: err  <nil>  str
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJVSUQiOiJoaHhkIiwiUm9sZSI6MTA5LCJTdGFuZGFyZENsYWltcyI6eyJleHAiOjE2MjQ4NzYwMzh9fQ.eg4y_5BT6GQ3vhGHW0hI2noFucqxzG-xQvK47VDA8Fs
+/Users/hexiaodong/go/src/htest/jwt/jwt_test.go:58 : [Info]: 2021-06-28 18:27:15 func[htest/jwt.TestJwt]: l 
+&{UID:hhxd Role:109 StandardClaims:{Audience: ExpiresAt:1624876038 Id: IssuedAt:0 Issuer: NotBefore:0 Subject:}}

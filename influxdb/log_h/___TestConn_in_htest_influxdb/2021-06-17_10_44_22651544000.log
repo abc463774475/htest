@@ -1,0 +1,1 @@
+/Users/hexiaodong/go/src/htest/influxdb/influxdb_test.go:28 : [Erro]: 2021-06-17 10:44:22 func[htest/influxdb.TestConn]: err  404 Not Found: database not found: "my-bucket"

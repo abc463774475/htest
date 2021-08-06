@@ -1,0 +1,1 @@
+/Users/hexiaodong/go/src/htest/pipe/pipe_test.go:108 : [Erro]: 2021-06-21 19:02:26 func[htest/pipe.TestGorm]: err   Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':1 ON `core_query_orders`(end_time)' at line 1

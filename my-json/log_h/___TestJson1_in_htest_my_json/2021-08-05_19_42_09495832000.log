@@ -1,0 +1,5 @@
+/Users/hexiaodong/go/src/htest/my-json/json_test.go:44 : [Info]: 2021-08-05 19:42:09 func[htest/my-json.TestJson1]: k FF e <nil> s [10,23]
+/Users/hexiaodong/go/src/htest/my-json/json_test.go:44 : [Info]: 2021-08-05 19:42:09 func[htest/my-json.TestJson1]: k AA e <nil> s 1.5
+/Users/hexiaodong/go/src/htest/my-json/json_test.go:44 : [Info]: 2021-08-05 19:42:09 func[htest/my-json.TestJson1]: k BB e <nil> s 10
+/Users/hexiaodong/go/src/htest/my-json/json_test.go:44 : [Info]: 2021-08-05 19:42:09 func[htest/my-json.TestJson1]: k CC e <nil> s false
+/Users/hexiaodong/go/src/htest/my-json/json_test.go:44 : [Info]: 2021-08-05 19:42:09 func[htest/my-json.TestJson1]: k DD e <nil> s {"EE":22}

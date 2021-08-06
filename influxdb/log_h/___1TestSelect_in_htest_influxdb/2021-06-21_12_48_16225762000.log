@@ -1,0 +1,1 @@
+/Users/hexiaodong/go/src/htest/influxdb/influx1_test.go:219 : [Info]: 2021-06-21 12:48:16 func[htest/influxdb.TestSelect]: err  <nil>  res  &{[] error parsing query: found INSERT, expected SELECT, DELETE, SHOW, CREATE, DROP, EXPLAIN, GRANT, REVOKE, ALTER, SET, KILL at line 1, char 1}

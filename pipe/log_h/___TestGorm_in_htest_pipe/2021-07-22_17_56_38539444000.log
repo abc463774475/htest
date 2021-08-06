@@ -1,0 +1,1 @@
+/Users/hexiaodong/go/src/htest/pipe/pipe_test.go:104 : [Erro]: 2021-07-22 17:56:38 func[htest/pipe.TestGorm]: err   Error 1049: Unknown database 'test'

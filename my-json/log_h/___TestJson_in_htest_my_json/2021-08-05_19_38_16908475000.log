@@ -1,0 +1,2 @@
+/Users/hexiaodong/go/src/htest/my-json/json_test.go:21 : [Info]: 2021-08-05 19:38:16 func[htest/my-json.TestJson]: err  <nil> data
+{"FF":[10,23],"AA":1.5,"BB":10,"CC":false,"DD":{"EE":22}}

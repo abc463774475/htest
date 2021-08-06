@@ -1,0 +1,4 @@
+/Users/hexiaodong/go/src/htest/reg/reg_test.go:19 : [Info]: 2021-08-05 17:08:45 func[htest/reg.TestReg]: b   is  true
+/Users/hexiaodong/go/src/htest/reg/reg_test.go:35 : [Info]: 2021-08-05 17:08:45 func[htest/reg.TestReg.func1]: err  strconv.Atoi: parsing "16)$": invalid syntax
+/Users/hexiaodong/go/src/htest/reg/reg_test.go:38 : [Info]: 2021-08-05 17:08:45 func[htest/reg.TestReg.func1]: arg  0
+/Users/hexiaodong/go/src/htest/reg/reg_test.go:42 : [Info]: 2021-08-05 17:08:45 func[htest/reg.TestReg]: sback  ds x $rand(16)$  ..xd

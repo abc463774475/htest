@@ -1,0 +1,5 @@
+/Users/hexiaodong/go/src/htest/tlstest/server_test.go:25 : [Info]: 2021-04-30 14:43:31 func[htest/tlstest.TestServer]: start
+/Users/hexiaodong/go/src/htest/tlstest/server_test.go:36 : [Info]: 2021-04-30 14:44:01 func[htest/tlstest.handleConn]: recv one accept
+/Users/hexiaodong/go/src/htest/tlstest/server_test.go:42 : [Erro]: 2021-04-30 14:44:52 func[htest/tlstest.handleConn]: err   unexpected EOF
+/Users/hexiaodong/go/src/htest/tlstest/server_test.go:36 : [Info]: 2021-04-30 14:45:39 func[htest/tlstest.handleConn]: recv one accept
+/Users/hexiaodong/go/src/htest/tlstest/server_test.go:49 : [Erro]: 2021-04-30 14:45:39 func[htest/tlstest.handleConn]: EOF

@@ -1,0 +1,1 @@
+/Users/hexiaodong/go/src/htest/chaos-mesh/chaos_test.go:82 : [Erro]: 2021-07-05 19:25:22 func[htest/chaos-mesh.TestWriteFile]: err  open f1.ini: permission denied

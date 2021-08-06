@@ -1,0 +1,6 @@
+/Users/hexiaodong/go/src/htest/tlstest/server_test.go:24 : [Info]: 2021-04-30 14:48:13 func[htest/tlstest.TestServer]: start
+/Users/hexiaodong/go/src/htest/tlstest/server_test.go:37 : [Info]: 2021-04-30 14:48:42 func[htest/tlstest.handleConn]: recv one accept
+/Users/hexiaodong/go/src/htest/tlstest/server_test.go:47 : [Debug]: 2021-04-30 14:48:42 func[htest/tlstest.handleConn]: handleshark sucs
+/Users/hexiaodong/go/src/htest/tlstest/server_test.go:55 : [Info]: 2021-04-30 14:48:42 func[htest/tlstest.handleConn]: hello
+
+/Users/hexiaodong/go/src/htest/tlstest/server_test.go:52 : [Erro]: 2021-04-30 14:48:42 func[htest/tlstest.handleConn]: EOF

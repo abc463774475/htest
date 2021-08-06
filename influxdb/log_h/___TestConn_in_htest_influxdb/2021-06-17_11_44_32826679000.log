@@ -1,0 +1,1 @@
+/Users/hexiaodong/go/src/htest/influxdb/influxdb_test.go:42 : [Erro]: 2021-06-17 11:44:32 func[htest/influxdb.TestConn]: err  400 Bad Request: partial write: field type conflict: input field "av1" on measurement "ms1" is type float, already exists as type integer dropped=1

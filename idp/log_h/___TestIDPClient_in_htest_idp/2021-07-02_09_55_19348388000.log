@@ -1,0 +1,1 @@
+/Users/hexiaodong/go/src/htest/idp/idp_test.go:33 : [Info]: 2021-07-02 09:55:19 func[htest/idp.TestIDPClient]: err  []@StatusErr[RequestFailed][500000001][request failed] Get "http:///idp/v0/auth/rsa-public-key": http: no Host in request URL

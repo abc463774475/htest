@@ -1,0 +1,1 @@
+/Users/hexiaodong/go/src/htest/pipe/pipe_test.go:106 : [Erro]: 2021-06-18 14:44:55 func[htest/pipe.TestGorm]: err   Error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':11 ON `users`(`name`)' at line 1

@@ -1,0 +1,5 @@
+/Users/hexiaodong/go/src/htest/tlstest/te_server_test.go:41 : [Debug]: 2021-04-30 15:14:54 func[htest/tlstest.TestTwoEndPointsServer]: start
+/Users/hexiaodong/go/src/htest/tlstest/te_server_test.go:57 : [Erro]: 2021-04-30 15:16:27 func[htest/tlstest.handleConnte]: err  tls: client didn't provide a certificate
+/Users/hexiaodong/go/src/htest/tlstest/te_server_test.go:57 : [Erro]: 2021-04-30 15:29:19 func[htest/tlstest.handleConnte]: err  tls: client didn't provide a certificate
+/Users/hexiaodong/go/src/htest/tlstest/te_server_test.go:64 : [Erro]: 2021-04-30 15:32:55 func[htest/tlstest.handleConnte]: EOF
+/Users/hexiaodong/go/src/htest/tlstest/te_server_test.go:64 : [Erro]: 2021-04-30 15:33:44 func[htest/tlstest.handleConnte]: EOF

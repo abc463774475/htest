@@ -1,0 +1,2 @@
+/Users/hexiaodong/go/src/htest/jwt/jwt_test.go:75 : [Info]: 2021-06-30 17:52:47 func[htest/jwt.(*ClaimsWithClockDrift).Valid]: valid  <nil>
+/Users/hexiaodong/go/src/htest/jwt/jwt_test.go:105 : [Erro]: 2021-06-30 17:52:47 func[htest/jwt.TestJwtDecrypt]: err  key is of invalid type

@@ -1,0 +1,2 @@
+/Users/hexiaodong/go/src/htest/idp/idp_test.go:33 : [Info]: 2021-07-02 13:30:09 func[htest/idp.init.0]: 222
+/Users/hexiaodong/go/src/htest/idp/idp_test.go:38 : [Info]: 2021-07-02 13:30:09 func[htest/idp.TestIDPClient]: 1111

@@ -1,0 +1,1 @@
+/Users/hexiaodong/go/src/htest/influxdb/influx1_test.go:204 : [Info]: 2021-06-17 18:18:39 func[htest/influxdb.TestPing]: t1  29.807ms  str  1.8.6  err  <nil>

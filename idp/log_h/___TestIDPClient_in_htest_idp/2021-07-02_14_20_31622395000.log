@@ -1,0 +1,4 @@
+/Users/hexiaodong/go/src/htest/idp/idp_test.go:39 : [Info]: 2021-07-02 14:20:31 func[htest/idp.TestIDPClient]: 1111
+/Users/hexiaodong/go/src/htest/idp/idp_test.go:33 : [Info]: 2021-07-02 14:20:31 func[htest/idp.Init]: 222
+/Users/hexiaodong/go/src/htest/idp/idp_test.go:42 : [Info]: 2021-07-02 14:20:32 func[htest/idp.TestIDPClient]: err  <nil>
+/Users/hexiaodong/go/src/htest/idp/idp_test.go:51 : [Erro]: 2021-07-02 14:20:32 func[htest/idp.TestIDPClient]: err  [srv-idp@0.0.0-4206a7b]@StatusErr[InvalidToken][401100002][登录状态已失效]! token contains an invalid number of segments: 

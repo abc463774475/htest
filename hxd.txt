@@ -1,0 +1,127 @@
+Jul 19 06:48:28.027  INFO toda: start with option: Options { path: "/tmpfs", mount_only: false, verbose: "info" }
+Jul 19 06:48:28.027  INFO inject{injector_config=[]}: toda: inject with config []
+Jul 19 06:48:28.027  INFO inject{injector_config=[]}: toda: canonicalizing path /tmpfs
+Jul 19 06:48:28.027  INFO toda: waiting for signal to exit
+Jul 19 06:48:28.027  INFO toda::jsonrpc: Starting jsonrpc server
+Jul 19 06:48:28.028  INFO toda::jsonrpc: Creating jsonrpc server
+Jul 19 06:48:28.028  INFO toda::jsonrpc: Creating jsonrpc handler
+Jul 19 06:48:28.028  INFO toda::jsonrpc: rpc update called
+{"jsonrpc":"2.0","result":"No such file or directory (os error 2)","id":1}
+Jul 19 06:48:28.028  INFO toda::jsonrpc: rpc get_status called
+{"jsonrpc":"2.0","result":"No such file or directory (os error 2)","id":2}
+2021-07-19T06:48:28.028Z	INFO	chaos-daemon-server	Starting toda takes too long or encounter an error
+2021-07-19T06:48:28.028Z	INFO	chaos-daemon-server	killing toda	{"pid": 24561}
+Jul 19 06:48:28.028  INFO toda: start to recover and exit
+2021-07-19T06:48:28.029Z	INFO	background-process-manager	process stopped	{"pid": 24561}
+2021-07-19T06:48:28.029Z	INFO	background-process-manager	Successfully killed process	{"pid": 24561}
+2021-07-19T06:48:28.029Z	INFO	chaos-daemon-server	kill toda successfully
+2021-07-19T06:48:28.033Z	INFO	chaos-daemon-server	applying io chaos	{"Request": "actions:\"[{\\\"type\\\":\\\"latency\\\",\\\"path\\\":\\\"\\\",\\\"methods\\\":[\\\"create\\\",\\\"statfs\\\"],\\\"percent\\\":100,\\\"faults\\\":[{\\\"errno\\\":0,\\\"weight\\\":1}],\\\"latency\\\":\\\"100ms\\\",\\\"source\\\":\\\"iot/io-inject-h-2\\\"}]\" volume:\"/tmpfs\" container_id:\"containerd://10349a8cd2f2e1e94503cbed0986112ec20d98b346d31072129d6145b3def3e9\" enterNS:true "}
+2021-07-19T06:48:28.033Z	INFO	chaos-daemon-server	the length of actions	{"length": 1}
+2021-07-19T06:48:28.034Z	INFO	chaos-daemon-server	executing	{"cmd": "/usr/local/bin/toda --path /tmpfs --verbose info"}
+2021-07-19T06:48:28.035Z	INFO	background-process-manager	build command	{"command": "/usr/local/bin/nsexec -l -p /proc/20679/ns/pid -m /proc/20679/ns/mnt -- /usr/local/bin/toda --path /tmpfs --verbose info"}
+2021-07-19T06:48:28.035Z	INFO	chaos-daemon-server	Waiting for toda to start
+Jul 19 06:48:28.038  INFO toda: start with option: Options { path: "/tmpfs", mount_only: false, verbose: "info" }
+Jul 19 06:48:28.038  INFO inject{injector_config=[]}: toda: inject with config []
+Jul 19 06:48:28.038  INFO inject{injector_config=[]}: toda: canonicalizing path /tmpfs
+Jul 19 06:48:28.038  INFO toda: waiting for signal to exit
+Jul 19 06:48:28.039  INFO toda::jsonrpc: Starting jsonrpc server
+Jul 19 06:48:28.039  INFO toda::jsonrpc: Creating jsonrpc server
+Jul 19 06:48:28.039  INFO toda::jsonrpc: Creating jsonrpc handler
+Jul 19 06:48:28.039  INFO toda::jsonrpc: rpc update called
+{"jsonrpc":"2.0","result":"No such file or directory (os error 2)","id":1}
+Jul 19 06:48:28.039  INFO toda::jsonrpc: rpc get_status called
+{"jsonrpc":"2.0","result":"No such file or directory (os error 2)","id":2}
+2021-07-19T06:48:28.039Z	INFO	chaos-daemon-server	Starting toda takes too long or encounter an error
+2021-07-19T06:48:28.039Z	INFO	chaos-daemon-server	killing toda	{"pid": 24574}
+Jul 19 06:48:28.039  INFO toda: start to recover and exit
+2021-07-19T06:48:28.040Z	INFO	background-process-manager	process stopped	{"pid": 24574}
+2021-07-19T06:48:28.040Z	INFO	background-process-manager	Successfully killed process	{"pid": 24574}
+2021-07-19T06:48:28.040Z	INFO	chaos-daemon-server	kill toda successfully
+2021-07-19T06:48:30.623Z	INFO	chaos-daemon-server	applying io chaos	{"Request": "actions:\"[{\\\"type\\\":\\\"latency\\\",\\\"path\\\":\\\"\\\",\\\"methods\\\":[\\\"create\\\",\\\"statfs\\\"],\\\"percent\\\":100,\\\"faults\\\":[{\\\"errno\\\":0,\\\"weight\\\":1}],\\\"latency\\\":\\\"100ms\\\",\\\"source\\\":\\\"iot/io-inject-h-2\\\"}]\" volume:\"/tmpfs\" container_id:\"containerd://10349a8cd2f2e1e94503cbed0986112ec20d98b346d31072129d6145b3def3e9\" enterNS:true "}
+2021-07-19T06:48:30.624Z	INFO	chaos-daemon-server	the length of actions	{"length": 1}
+2021-07-19T06:48:30.624Z	INFO	chaos-daemon-server	executing	{"cmd": "/usr/local/bin/toda --path /tmpfs --verbose info"}
+2021-07-19T06:48:30.625Z	INFO	background-process-manager	build command	{"command": "/usr/local/bin/nsexec -l -p /proc/20679/ns/pid -m /proc/20679/ns/mnt -- /usr/local/bin/toda --path /tmpfs --verbose info"}
+2021-07-19T06:48:30.625Z	INFO	chaos-daemon-server	Waiting for toda to start
+Jul 19 06:48:30.628  INFO toda: start with option: Options { path: "/tmpfs", mount_only: false, verbose: "info" }
+Jul 19 06:48:30.628  INFO inject{injector_config=[]}: toda: inject with config []
+Jul 19 06:48:30.628  INFO inject{injector_config=[]}: toda: canonicalizing path /tmpfs
+Jul 19 06:48:30.628  INFO toda: waiting for signal to exit
+Jul 19 06:48:30.629  INFO toda::jsonrpc: Starting jsonrpc server
+Jul 19 06:48:30.629  INFO toda::jsonrpc: Creating jsonrpc server
+Jul 19 06:48:30.629  INFO toda::jsonrpc: Creating jsonrpc handler
+Jul 19 06:48:30.629  INFO toda::jsonrpc: rpc update called
+{"jsonrpc":"2.0","result":"No such file or directory (os error 2)","id":1}
+Jul 19 06:48:30.629  INFO toda::jsonrpc: rpc get_status called
+{"jsonrpc":"2.0","result":"No such file or directory (os error 2)","id":2}
+2021-07-19T06:48:30.629Z	INFO	chaos-daemon-server	Starting toda takes too long or encounter an error
+2021-07-19T06:48:30.629Z	INFO	chaos-daemon-server	killing toda	{"pid": 24615}
+Jul 19 06:48:30.629  INFO toda: start to recover and exit
+2021-07-19T06:48:30.630Z	INFO	background-process-manager	process stopped	{"pid": 24615}
+2021-07-19T06:48:30.630Z	INFO	background-process-manager	Successfully killed process	{"pid": 24615}
+2021-07-19T06:48:30.630Z	INFO	chaos-daemon-server	kill toda successfully
+2021-07-19T06:48:30.634Z	INFO	chaos-daemon-server	applying io chaos	{"Request": "actions:\"[{\\\"type\\\":\\\"latency\\\",\\\"path\\\":\\\"\\\",\\\"methods\\\":[\\\"create\\\",\\\"statfs\\\"],\\\"percent\\\":100,\\\"faults\\\":[{\\\"errno\\\":0,\\\"weight\\\":1}],\\\"latency\\\":\\\"100ms\\\",\\\"source\\\":\\\"iot/io-inject-h-2\\\"}]\" volume:\"/tmpfs\" container_id:\"containerd://10349a8cd2f2e1e94503cbed0986112ec20d98b346d31072129d6145b3def3e9\" enterNS:true "}
+2021-07-19T06:48:30.634Z	INFO	chaos-daemon-server	the length of actions	{"length": 1}
+2021-07-19T06:48:30.635Z	INFO	chaos-daemon-server	executing	{"cmd": "/usr/local/bin/toda --path /tmpfs --verbose info"}
+2021-07-19T06:48:30.635Z	INFO	background-process-manager	build command	{"command": "/usr/local/bin/nsexec -l -p /proc/20679/ns/pid -m /proc/20679/ns/mnt -- /usr/local/bin/toda --path /tmpfs --verbose info"}
+2021-07-19T06:48:30.635Z	INFO	chaos-daemon-server	Waiting for toda to start
+Jul 19 06:48:30.638  INFO toda: start with option: Options { path: "/tmpfs", mount_only: false, verbose: "info" }
+Jul 19 06:48:30.638  INFO inject{injector_config=[]}: toda: inject with config []
+Jul 19 06:48:30.638  INFO inject{injector_config=[]}: toda: canonicalizing path /tmpfs
+Jul 19 06:48:30.638  INFO toda: waiting for signal to exit
+Jul 19 06:48:30.639  INFO toda::jsonrpc: Starting jsonrpc server
+Jul 19 06:48:30.639  INFO toda::jsonrpc: Creating jsonrpc server
+Jul 19 06:48:30.639  INFO toda::jsonrpc: Creating jsonrpc handler
+Jul 19 06:48:30.639  INFO toda::jsonrpc: rpc update called
+{"jsonrpc":"2.0","result":"No such file or directory (os error 2)","id":1}
+Jul 19 06:48:30.639  INFO toda::jsonrpc: rpc get_status called
+{"jsonrpc":"2.0","result":"No such file or directory (os error 2)","id":2}
+2021-07-19T06:48:30.639Z	INFO	chaos-daemon-server	Starting toda takes too long or encounter an error
+2021-07-19T06:48:30.639Z	INFO	chaos-daemon-server	killing toda	{"pid": 24628}
+Jul 19 06:48:30.639  INFO toda: start to recover and exit
+2021-07-19T06:48:30.640Z	INFO	background-process-manager	process stopped	{"pid": 24628}
+2021-07-19T06:48:30.640Z	INFO	background-process-manager	Successfully killed process	{"pid": 24628}
+2021-07-19T06:48:30.640Z	INFO	chaos-daemon-server	kill toda successfully
+2021-07-19T06:48:35.788Z	INFO	chaos-daemon-server	applying io chaos	{"Request": "actions:\"[{\\\"type\\\":\\\"latency\\\",\\\"path\\\":\\\"\\\",\\\"methods\\\":[\\\"create\\\",\\\"statfs\\\"],\\\"percent\\\":100,\\\"faults\\\":[{\\\"errno\\\":0,\\\"weight\\\":1}],\\\"latency\\\":\\\"100ms\\\",\\\"source\\\":\\\"iot/io-inject-h-2\\\"}]\" volume:\"/tmpfs\" container_id:\"containerd://10349a8cd2f2e1e94503cbed0986112ec20d98b346d31072129d6145b3def3e9\" enterNS:true "}
+2021-07-19T06:48:35.788Z	INFO	chaos-daemon-server	the length of actions	{"length": 1}
+2021-07-19T06:48:35.789Z	INFO	chaos-daemon-server	executing	{"cmd": "/usr/local/bin/toda --path /tmpfs --verbose info"}
+2021-07-19T06:48:35.789Z	INFO	background-process-manager	build command	{"command": "/usr/local/bin/nsexec -l -p /proc/20679/ns/pid -m /proc/20679/ns/mnt -- /usr/local/bin/toda --path /tmpfs --verbose info"}
+2021-07-19T06:48:35.789Z	INFO	chaos-daemon-server	Waiting for toda to start
+Jul 19 06:48:35.792  INFO toda: start with option: Options { path: "/tmpfs", mount_only: false, verbose: "info" }
+Jul 19 06:48:35.792  INFO inject{injector_config=[]}: toda: inject with config []
+Jul 19 06:48:35.792  INFO inject{injector_config=[]}: toda: canonicalizing path /tmpfs
+Jul 19 06:48:35.793  INFO toda: waiting for signal to exit
+Jul 19 06:48:35.793  INFO toda::jsonrpc: Starting jsonrpc server
+Jul 19 06:48:35.793  INFO toda::jsonrpc: Creating jsonrpc server
+Jul 19 06:48:35.793  INFO toda::jsonrpc: Creating jsonrpc handler
+Jul 19 06:48:35.793  INFO toda::jsonrpc: rpc update called
+{"jsonrpc":"2.0","result":"No such file or directory (os error 2)","id":1}
+Jul 19 06:48:35.794  INFO toda::jsonrpc: rpc get_status called
+{"jsonrpc":"2.0","result":"No such file or directory (os error 2)","id":2}
+2021-07-19T06:48:35.794Z	INFO	chaos-daemon-server	Starting toda takes too long or encounter an error
+2021-07-19T06:48:35.794Z	INFO	chaos-daemon-server	killing toda	{"pid": 24710}
+Jul 19 06:48:35.794  INFO toda: start to recover and exit
+2021-07-19T06:48:35.794Z	INFO	background-process-manager	process stopped	{"pid": 24710}
+2021-07-19T06:48:35.794Z	INFO	background-process-manager	Successfully killed process	{"pid": 24710}
+2021-07-19T06:48:35.794Z	INFO	chaos-daemon-server	kill toda successfully
+2021-07-19T06:48:35.798Z	INFO	chaos-daemon-server	applying io chaos	{"Request": "actions:\"[{\\\"type\\\":\\\"latency\\\",\\\"path\\\":\\\"\\\",\\\"methods\\\":[\\\"create\\\",\\\"statfs\\\"],\\\"percent\\\":100,\\\"faults\\\":[{\\\"errno\\\":0,\\\"weight\\\":1}],\\\"latency\\\":\\\"100ms\\\",\\\"source\\\":\\\"iot/io-inject-h-2\\\"}]\" volume:\"/tmpfs\" container_id:\"containerd://10349a8cd2f2e1e94503cbed0986112ec20d98b346d31072129d6145b3def3e9\" enterNS:true "}
+2021-07-19T06:48:35.798Z	INFO	chaos-daemon-server	the length of actions	{"length": 1}
+2021-07-19T06:48:35.799Z	INFO	chaos-daemon-server	executing	{"cmd": "/usr/local/bin/toda --path /tmpfs --verbose info"}
+2021-07-19T06:48:35.799Z	INFO	background-process-manager	build command	{"command": "/usr/local/bin/nsexec -l -p /proc/20679/ns/pid -m /proc/20679/ns/mnt -- /usr/local/bin/toda --path /tmpfs --verbose info"}
+2021-07-19T06:48:35.799Z	INFO	chaos-daemon-server	Waiting for toda to start
+Jul 19 06:48:35.802  INFO toda: start with option: Options { path: "/tmpfs", mount_only: false, verbose: "info" }
+Jul 19 06:48:35.802  INFO inject{injector_config=[]}: toda: inject with config []
+Jul 19 06:48:35.802  INFO inject{injector_config=[]}: toda: canonicalizing path /tmpfs
+Jul 19 06:48:35.802  INFO toda: waiting for signal to exit
+Jul 19 06:48:35.804  INFO toda::jsonrpc: Starting jsonrpc server
+Jul 19 06:48:35.804  INFO toda::jsonrpc: Creating jsonrpc server
+Jul 19 06:48:35.804  INFO toda::jsonrpc: Creating jsonrpc handler
+Jul 19 06:48:35.804  INFO toda::jsonrpc: rpc update called
+{"jsonrpc":"2.0","result":"No such file or directory (os error 2)","id":1}
+Jul 19 06:48:35.804  INFO toda::jsonrpc: rpc get_status called
+{"jsonrpc":"2.0","result":"No such file or directory (os error 2)","id":2}
+2021-07-19T06:48:35.804Z	INFO	chaos-daemon-server	Starting toda takes too long or encounter an error
+2021-07-19T06:48:35.804Z	INFO	chaos-daemon-server	killing toda	{"pid": 24723}
+Jul 19 06:48:35.804  INFO toda: start to recover and exit
+2021-07-19T06:48:35.805Z	INFO	background-process-manager	process stopped	{"pid": 24723}
+2021-07-19T06:48:35.805Z	INFO	background-process-manager	Successfully killed process	{"pid": 24723}
+2021-07-19T06:48:35.805Z	INFO	chaos-daemon-server	kill toda successfully

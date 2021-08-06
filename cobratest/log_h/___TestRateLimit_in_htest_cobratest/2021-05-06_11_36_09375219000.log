@@ -1,0 +1,10 @@
+/Users/hexiaodong/go/src/htest/cobratest/ratelimit_test.go:17 : [Info]: 2021-05-06 11:36:09 func[htest/cobratest.TestRateLimit]: 0   417ns
+/Users/hexiaodong/go/src/htest/cobratest/ratelimit_test.go:17 : [Info]: 2021-05-06 11:36:09 func[htest/cobratest.TestRateLimit]: 1   10ms
+/Users/hexiaodong/go/src/htest/cobratest/ratelimit_test.go:17 : [Info]: 2021-05-06 11:36:09 func[htest/cobratest.TestRateLimit]: 2   10ms
+/Users/hexiaodong/go/src/htest/cobratest/ratelimit_test.go:17 : [Info]: 2021-05-06 11:36:09 func[htest/cobratest.TestRateLimit]: 3   10ms
+/Users/hexiaodong/go/src/htest/cobratest/ratelimit_test.go:17 : [Info]: 2021-05-06 11:36:09 func[htest/cobratest.TestRateLimit]: 4   10ms
+/Users/hexiaodong/go/src/htest/cobratest/ratelimit_test.go:17 : [Info]: 2021-05-06 11:36:09 func[htest/cobratest.TestRateLimit]: 5   10ms
+/Users/hexiaodong/go/src/htest/cobratest/ratelimit_test.go:17 : [Info]: 2021-05-06 11:36:09 func[htest/cobratest.TestRateLimit]: 6   10ms
+/Users/hexiaodong/go/src/htest/cobratest/ratelimit_test.go:17 : [Info]: 2021-05-06 11:36:09 func[htest/cobratest.TestRateLimit]: 7   10ms
+/Users/hexiaodong/go/src/htest/cobratest/ratelimit_test.go:17 : [Info]: 2021-05-06 11:36:09 func[htest/cobratest.TestRateLimit]: 8   10ms
+/Users/hexiaodong/go/src/htest/cobratest/ratelimit_test.go:17 : [Info]: 2021-05-06 11:36:09 func[htest/cobratest.TestRateLimit]: 9   10ms

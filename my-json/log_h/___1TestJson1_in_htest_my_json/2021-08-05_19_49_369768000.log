@@ -1,0 +1,2 @@
+/Users/hexiaodong/go/src/htest/my-json/json_test.go:44 : [Info]: 2021-08-05 19:49:36 func[htest/my-json.TestJson1]: k DD e <nil> s {"EE":22}
+/Users/hexiaodong/go/src/htest/my-json/json_test.go:44 : [Info]: 2021-08-05 19:50:01 func[htest/my-json.TestJson1]: k FF e <nil> s [10,23]

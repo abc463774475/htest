@@ -1,0 +1,2 @@
+/Users/hexiaodong/go/src/htest/influxdb/influxdb_test.go:73 : [Info]: 2021-06-17 16:07:28 func[htest/influxdb.TestQuery]: err  500 Internal Server Error: type error 1:1-1:5: undefined identifier "show"
+<nil>

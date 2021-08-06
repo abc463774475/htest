@@ -1,0 +1,2 @@
+/Users/hexiaodong/go/src/htest/unixsocket/server_test.go:20 : [Info]: 2021-06-07 17:33:55 func[htest/unixsocket.TestServere]: create unix domain socket suc
+/Users/hexiaodong/go/src/htest/unixsocket/server_test.go:26 : [Info]: 2021-06-07 17:34:01 func[htest/unixsocket.TestServere]: err  <nil>

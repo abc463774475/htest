@@ -1,0 +1,2 @@
+/Users/hexiaodong/go/src/htest/idp/idp_test.go:180 : [Info]: 2021-07-02 16:06:33 func[htest/idp.TestCurrentUser]: aes  
+&{IdPAccount:{AccountID:1395687320656546883 AccountType:USER Avatar: State:ENABLED} Identities:{EMAIL:hexiaodong@rockontrol.com MOBILE:15884337800 NICKNAME:何小东}}

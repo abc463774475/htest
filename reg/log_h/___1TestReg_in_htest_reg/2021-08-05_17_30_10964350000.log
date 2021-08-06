@@ -1,0 +1,6 @@
+/Users/hexiaodong/go/src/htest/reg/reg_test.go:53 : [Info]: 2021-08-05 17:30:10 func[htest/reg.replaceRand]: b   is  true
+/Users/hexiaodong/go/src/htest/reg/reg_test.go:17 : [Info]: 2021-08-05 17:30:10 func[htest/reg.TestReg]: sback  dsx dQtXuylyKND1ZzrX  ..xd
+/Users/hexiaodong/go/src/htest/reg/reg_test.go:19 : [Info]: 2021-08-05 17:30:10 func[htest/reg.TestReg]: ttttttt 
+/Users/hexiaodong/go/src/htest/reg/reg_test.go:94 : [Info]: 2021-08-05 17:30:10 func[htest/reg.replaceTime]: b   is  false
+/Users/hexiaodong/go/src/htest/reg/reg_test.go:25 : [Info]: 2021-08-05 17:30:10 func[htest/reg.TestReg]: "ds x $now(0)$  ..xd"
+/Users/hexiaodong/go/src/htest/reg/reg_test.go:94 : [Info]: 2021-08-05 17:30:10 func[htest/reg.replaceTime]: b   is  true

@@ -1,0 +1,2 @@
+/Users/hexiaodong/go/src/htest/influxdb/influxdb_test.go:79 : [Info]: 2021-06-17 15:43:48 func[htest/influxdb.TestQuery]: err  500 Internal Server Error: loc 1:16-1:17: invalid statement @1:16-1:17: ;
+

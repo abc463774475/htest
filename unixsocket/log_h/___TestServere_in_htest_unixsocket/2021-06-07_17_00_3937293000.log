@@ -1,0 +1,5 @@
+/Users/hexiaodong/go/src/htest/unixsocket/server_test.go:18 : [Info]: 2021-06-07 17:00:39 func[htest/unixsocket.TestServere]: create unix domain socket suc
+/Users/hexiaodong/go/src/htest/unixsocket/server_test.go:24 : [Info]: 2021-06-07 17:00:55 func[htest/unixsocket.TestServere]: err  <nil>
+/Users/hexiaodong/go/src/htest/unixsocket/server_test.go:37 : [Info]: 2021-06-07 17:00:55 func[htest/unixsocket.TestServere.func1]: n  0 err  <nil>
+/Users/hexiaodong/go/src/htest/unixsocket/server_test.go:24 : [Info]: 2021-06-07 17:01:45 func[htest/unixsocket.TestServere]: err  <nil>
+/Users/hexiaodong/go/src/htest/unixsocket/server_test.go:37 : [Info]: 2021-06-07 17:01:45 func[htest/unixsocket.TestServere.func1]: n  0 err  <nil>

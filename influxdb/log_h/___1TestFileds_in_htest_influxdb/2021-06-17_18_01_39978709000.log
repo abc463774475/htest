@@ -1,0 +1,2 @@
+/Users/hexiaodong/go/src/htest/influxdb/influx1_test.go:198 : [Info]: 2021-06-17 18:01:39 func[htest/influxdb.TestFileds]: err  <nil>  res
+[{integer av1} {float sum}]

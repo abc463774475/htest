@@ -1,0 +1,2 @@
+/Users/hexiaodong/go/src/htest/idp/idp_test.go:195 : [Info]: 2021-07-05 11:01:27 func[htest/idp.(*ClaimsWithClockDrift).Valid]: valid  <nil>
+/Users/hexiaodong/go/src/htest/idp/idp_test.go:227 : [Erro]: 2021-07-05 11:01:27 func[htest/idp.TestPublick]: err  key is of invalid type

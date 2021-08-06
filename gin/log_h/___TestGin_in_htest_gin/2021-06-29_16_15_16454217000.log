@@ -1,0 +1,6 @@
+/Users/hexiaodong/go/src/htest/gin/gin_test.go:15 : [Info]: 2021-06-29 16:15:16 func[htest/gin.TestGin.func1]: head map[Accept:[*/*] Accept-Encoding:[gzip, deflate, br] Connection:[keep-alive] Content-Length:[0] Postman-Token:[652ad94c-dcdd-4433-b856-33241378a11d] User-Agent:[PostmanRuntime/7.28.0]]
+/Users/hexiaodong/go/src/htest/gin/gin_test.go:19 : [Info]: 2021-06-29 16:15:16 func[htest/gin.TestGin.func1]: body  <nil>
+
+/Users/hexiaodong/go/src/htest/gin/gin_test.go:15 : [Info]: 2021-06-29 16:18:52 func[htest/gin.TestGin.func1]: head map[Accept:[*/*] User-Agent:[curl/7.64.1]]
+/Users/hexiaodong/go/src/htest/gin/gin_test.go:19 : [Info]: 2021-06-29 16:18:52 func[htest/gin.TestGin.func1]: body  <nil>
+

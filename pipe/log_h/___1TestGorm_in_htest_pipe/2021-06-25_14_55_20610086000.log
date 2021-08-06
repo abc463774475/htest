@@ -1,0 +1,2 @@
+/Users/hexiaodong/go/src/htest/pipe/pipe_test.go:112 : [Info]: 2021-06-25 14:55:20 func[htest/pipe.TestGorm]: err 
+Error 3024: Query execution was interrupted, maximum statement execution time exceeded

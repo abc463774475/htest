@@ -1,0 +1,1 @@
+/Users/hexiaodong/go/src/htest/jwt/jwt_test.go:100 : [Erro]: 2021-06-30 17:50:53 func[htest/jwt.TestJwtDecrypt]: err  key is of invalid type

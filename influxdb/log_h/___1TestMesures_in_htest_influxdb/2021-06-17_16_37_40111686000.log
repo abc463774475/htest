@@ -1,0 +1,1 @@
+/Users/hexiaodong/go/src/htest/influxdb/influx1_test.go:59 : [Info]: 2021-06-17 16:37:40 func[htest/influxdb.TestMesures]: Connection  &{{http  <nil> localhost:8086   false   }    0x140001172c0 InfluxDBClient }

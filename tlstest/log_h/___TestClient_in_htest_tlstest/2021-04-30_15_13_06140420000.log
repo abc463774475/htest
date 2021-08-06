@@ -1,0 +1,1 @@
+/Users/hexiaodong/go/src/htest/tlstest/client_test.go:29 : [Erro]: 2021-04-30 15:13:06 func[htest/tlstest.TestClient]:  0  remote error: tls: bad certificate
