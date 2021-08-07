@@ -4,9 +4,6 @@ go 1.16
 
 require (
 	bazil.org/fuse v0.0.0-20200524192727-fb710f7dfd05
-	git.querycap.com/idp/idp_client/v2 v2.2.3
-	git.querycap.com/iot/lib/gateway v0.0.0-20210721024816-9278cb9eea77
-	git.querycap.com/tools/svcutil v0.5.7
 	github.com/abc463774475/bbtool v1.1.1
 	github.com/bshuster-repo/logrus-logstash-hook v1.0.0
 	github.com/cookieY/yee v0.2.2
