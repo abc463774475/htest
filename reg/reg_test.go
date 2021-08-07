@@ -20,13 +20,12 @@ func TestReg(t *testing.T)  {
 	// str := "dsx $rand(16)$  ..xd"  v2=$now(2)$<3a2a6702-d101-4cd4-9ee4-1ace7b8986cb_identifier>=222
 	for i := 0 ; i < 20; i++{
 		go func() {
-			str = replaceRand(str)
-			n_log.Info("sback  %v", str)
+			str1 := replaceRand(str)
+			n_log.Info("sback  %v", str1)
 		}()
 	}
 
 	time.Sleep(2*time.Second)
-
 }
 
 var letterRunes = []rune("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789")
